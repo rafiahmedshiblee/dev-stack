@@ -1,3 +1,4 @@
+// Sticky navbar with responsive hamburger menu for mobile and tablet
 import { useState } from 'react';
 import { FiX } from 'react-icons/fi';
 import logo from '../assets/logo-text.png';
