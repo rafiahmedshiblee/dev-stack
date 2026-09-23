@@ -1,3 +1,4 @@
+// selected tech stack with remove & remove all actions
 import type { Technology } from '../types';
 import { FiTrash2, FiX } from 'react-icons/fi';
 
