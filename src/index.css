@@ -1,5 +1,5 @@
+/* Shared brand gradient theme - orange to pink to violet */
 @import "tailwindcss";
-
 .brand-gradient {
   background-image: linear-gradient(
     to right,
