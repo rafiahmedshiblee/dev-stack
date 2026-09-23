@@ -1,3 +1,4 @@
+//added button states
 import type { Technology } from '../types';
 import { FiStar } from 'react-icons/fi';
 
